@@ -1,4 +1,4 @@
-function Cabecalho({titulo}) {
+function Cabecalho({ titulo }) {
   return <h1>{titulo}</h1>;
 }
 
